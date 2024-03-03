@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DepressedMeatball
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning foundations of coding (newbie)
-- 💞️ I’m looking to collaborate on i don't know yet
-- 📫 Don't reach me yet
+- 👀 I’m a bug a producer
+- 🌱 I’m currently learning foundations of coding (trying to be Full Stack)
+- 💞️ I’m looking to collaborate with any one who can help me
+- 📫 Don't reach me yet (i'm still producing lots of bugs)
 - 😄 Pronouns: Meatball
 - ⚡ Fun fact: My brain is burning cells rapidly
 
