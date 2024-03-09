@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DepressedMeatball
-- 👀 I’m a bug producer 🐞🪳🪲
-- 🌱 I’m currently learning foundations of coding (trying to be Full Stack)
+- 👀 I’m a bug generator 🐞🪳🪲
+- 🌱 I’m currently learning foundations of coding (trying to be Full Stack Developer)
 - 💞️ I’m looking to collaborate with any one who can help me
-- 📫 Don't reach me yet (i'm still producing lots of bugs)
-- 😄 Pronouns: Meatball
+- 📫 Don't reach me yet (i'm still generate lots of bugs)
+- 😄 Pronouns: Depressed Meatball
 - ⚡ Fun fact: My brain is burning cells rapidly
 
 <!---
